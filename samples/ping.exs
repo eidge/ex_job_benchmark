@@ -1,4 +1,4 @@
-jobs = 0..10_000
+jobs = 0..2_000
 
 ex_job = fn ->
   Enum.each(jobs, fn _ -> ExJob.enqueue(ExJobBenchmark.ExJob.Job, [self()]) end)
