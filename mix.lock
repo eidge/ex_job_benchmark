@@ -2,7 +2,7 @@
   "connection": {:hex, :connection, "1.0.4", "a1cae72211f0eef17705aaededacac3eb30e6625b04a6117c1b2db6ace7d5976", [], [], "hexpm"},
   "deep_merge": {:hex, :deep_merge, "0.1.1", "c27866a7524a337b6a039eeb8dd4f17d458fd40fbbcb8c54661b71a22fffe846", [], [], "hexpm"},
   "eredis": {:hex, :eredis, "1.1.0", "8d8d74496f35216679b97726b75fb1c8715e99dd7f3ef9f9824a2264c3e0aac0", [], [], "hexpm"},
-  "ex_job": {:hex, :ex_job, "0.2.0", "8b6844fc887a7058b683dea5637f49e3f98ad5f84e0bfd5bb1713cecefd4c04a", [], [], "hexpm"},
+  "ex_job": {:hex, :ex_job, "0.2.1", "5a9495841a3333eeee32f5e327f17bb8347ba4a219e6c43accad2133130a4ef0", [:mix], [], "hexpm"},
   "exq": {:hex, :exq, "0.9.0", "3feeb085fcd94a687033211e10c78cf9dca1de062aac3fa9a4b1f808cdcea522", [], [{:poison, ">= 1.2.0 or ~> 2.0", [hex: :poison, repo: "hexpm", optional: false]}, {:redix, ">= 0.5.0", [hex: :redix, repo: "hexpm", optional: false]}, {:uuid, ">= 1.0.0", [hex: :uuid, repo: "hexpm", optional: false]}], "hexpm"},
   "exredis": {:hex, :exredis, "0.2.5", "34d02fa9ef32174cbd790b166746f91b3dbc131ce37a2d9a2451e8bba164b423", [], [{:eredis, ">= 1.0.8", [hex: :eredis, repo: "hexpm", optional: false]}], "hexpm"},
   "poison": {:hex, :poison, "3.1.0", "d9eb636610e096f86f25d9a46f35a9facac35609a7591b3be3326e99a0484665", [], [], "hexpm"},

@@ -10,14 +10,14 @@ were:
 
 ```
 Name            ips        average  deviation         median
-ExJob         12.25       81.62 ms    ±10.19%       82.71 ms
-Toniq          2.06      484.53 ms     ±5.02%      486.17 ms
-Exq            0.72     1390.99 ms    ±29.17%     1261.29 ms
+ExJob         23.96       41.73 ms     ±2.36%       41.53 ms
+Toniq          1.91      523.63 ms     ±3.03%      519.35 ms
+Exq            0.69     1450.35 ms    ±24.63%     1452.40 ms
 
 Comparison:
-ExJob         12.25
-Toniq          2.06 - 5.94x slower
-Exq            0.72 - 17.04x slower
+ExJob         23.96
+Toniq          1.91 - 12.55x slower
+Exq            0.69 - 34.76x slower
 ```
 
 To run the benchmarks yourself:

@@ -22,7 +22,7 @@ defmodule ExJobBenchmark.Mixfile do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:ex_job, "~> 0.2.0"},
+      {:ex_job, "~> 0.2.1"},
       {:exredis, ">= 0.1.1"},
       {:exq, "~> 0.9.0"},
       {:toniq, "~> 1.0"},
